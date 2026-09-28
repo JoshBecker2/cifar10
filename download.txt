@@ -1,0 +1,2 @@
+https://github.com/JoshBecker2/cifar10/raw/refs/heads/main/cifar10-1.tar.gz
+https://github.com/JoshBecker2/cifar10/raw/refs/heads/main/cifar10-2.tar.gz
